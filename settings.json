@@ -1,0 +1,40 @@
+{
+    "translation": {
+        "default_engine": "百度翻译",
+        "available_engines": [
+            "百度翻译",
+            "谷歌翻译",
+            "有道翻译"
+        ],
+        "auto_detect_language": true,
+        "default_source_lang": "auto",
+        "default_target_lang": "zh"
+    },
+    "ui": {
+        "toolbar_opacity": 0.9,
+        "translation_window_opacity": 0.95,
+        "show_toolbar_on_selection": true,
+        "toolbar_position_offset_y": 20,
+        "translation_window_size": [
+            400,
+            350
+        ]
+    },
+    "hotkeys": {
+        "translate": "ctrl+shift+t",
+        "copy": "ctrl+shift+c",
+        "hide": "esc"
+    },
+    "clipboard": {
+        "check_interval_ms": 500,
+        "use_clipboard_for_detection": true
+    },
+    "search": {
+        "default_search_engine": "百度",
+        "available_search_engines": {
+            "百度": "https://www.baidu.com/s?wd={query}",
+            "谷歌": "https://www.google.com/search?q={query}",
+            "必应": "https://www.bing.com/search?q={query}"
+        }
+    }
+}

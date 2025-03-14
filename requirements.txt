@@ -1,0 +1,6 @@
+PyQt6>=6.4.0
+keyboard>=0.13.5
+mouse>=0.7.1
+pyperclip>=1.8.2
+translate>=3.6.1
+Pillow>=10.4.0
